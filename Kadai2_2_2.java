@@ -25,6 +25,8 @@ public class Kadai2_2_2 {
 
 		} catch (Exception e) {
 			System.out.print("処理に失敗しました。");
+		} finally {
+			sc.close();
 		}
 	}
 

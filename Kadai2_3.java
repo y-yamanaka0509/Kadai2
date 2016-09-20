@@ -87,5 +87,6 @@ public class Kadai2_3 {
 		}
 		System.out.print("終了しました。");
 
+		sc.close();
 	}
 }
